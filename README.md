@@ -38,6 +38,10 @@ Real-time hand symbol detection is performed by integrating OpenCV with the trai
 5. Store the results of the frame , Take out the maximum occuring symbol out of 200 frames and display it on the video feed
 6. Show nothing on camera for a space and use backspace button to delete chars from string.
 
+
+   <img width="960" alt="Demo-hello" src="https://github.com/MohdDilshad-nitk/ASL_Recognition/assets/97335106/9fa510b0-22b3-43c8-be80-bfbeff4f59db">
+
+
 ## Potential Challenges
 
 - Lighting conditions: Ensure that the hand landmarks are accurately detected and recorded under different lighting conditions. Although Mediapipe works brilliant under different lighting conditions
